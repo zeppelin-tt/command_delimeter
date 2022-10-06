@@ -1,0 +1,11 @@
+{
+  "enter_name": "Введите имя",
+  "generate": "Создать команды",
+  "number_of_teams": "всего команд",
+  "with_captains": "с капитанами",
+  "add": "Добавить",
+  "team_page2": "Команда",
+  "error_already_in_the_list": "это имя уже есть в списке'",
+  "error_teams_not_completed": "недостаточно имен для создания одной команды",
+  "no_teams_yet": "Команды еще не созданы"
+}

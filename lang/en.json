@@ -1,0 +1,11 @@
+{
+  "enter_name": "Enter name",
+  "generate": "Generate",
+  "number_of_teams": "number of teams",
+  "with_captains": "with captains",
+  "add": "Add",
+  "team_page2": "Team",
+  "error_already_in_the_list": "this name is already in the list",
+  "error_teams_not_completed": "teams are not completed",
+  "no_teams_yet": "No teams yet"
+}

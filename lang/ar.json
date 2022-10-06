@@ -1,0 +1,11 @@
+{
+  "enter_name": "أدخل الاسم",
+  "generate": "انشاء",
+  "number_of_teams": "عدد الفرق",
+  "with_captains": "مع النقباء",
+  "add": "أضف",
+  "team_page2": "الفريق",
+  "error_already_in_the_list": "هذا الاسم موجود بالفعل في القائمة",
+  "error_teams_not_completed": "الفرق لم تكتمل",
+  "no_teams_yet": "لا فرق حتى الان"
+}

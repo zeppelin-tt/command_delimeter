@@ -1,0 +1,53 @@
+name: command_delimeter
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.0.3
+  implicitly_animated_reorderable_list: ^0.4.2
+  numberpicker: ^2.1.1
+  shared_preferences: ^2.0.15
+  get_it: ^7.2.0
+  flutter_svg: ^1.1.5
+  flutter_screenutil: ^5.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: any
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/icon_delimiter.png"
+  image_path_android: "assets/icon_delimiter.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/svg/skull.svg
+    #      languages
+    - lang/ar.json
+    - lang/en.json
+    - lang/fa.json
+    - lang/ru.json
+
+  fonts:
+    - family: Kill The Noise
+      fonts:
+        - asset: fonts/ljk_Kill_The_Noise/ljk_Kill_The_Noise.ttf
+    - family: Foma_flibustier
+      fonts:
+        - asset: fonts/Foma_flibustier/Foma_flibustier.ttf

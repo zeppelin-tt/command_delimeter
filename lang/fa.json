@@ -1,0 +1,11 @@
+{
+  "enter_name": "نام را وارد کنید",
+  "generate": "تولید می کنند",
+  "number_of_teams": "تعداد تیم ها",
+  "with_captains": "با کاپیتان",
+  "add": "اضافه کردن",
+  "team_page2": "تیم",
+  "error_already_in_the_list": "این نام در حال حاضر در لیست موجود است",
+  "error_teams_not_completed": "تیم ها کامل نشده اند",
+  "no_teams_yet": "هنوز تیمی وجود ندارد"
+}
